@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>debugLine.png</file>
+        <file>breakpoint.png</file>
+        <file>images/Binoculars-01.ico</file>
+        <file>images/Button Favorite-01.ico</file>
+        <file>images/Button Help-01.ico</file>
+        <file>images/Button Next-01.ico</file>
+        <file>images/Button Pause-01.ico</file>
+        <file>images/Button Play-01.ico</file>
+        <file>images/Button Previous-01.ico</file>
+        <file>images/Button Refresh-01.ico</file>
+        <file>images/Button Reminder-01.ico</file>
+        <file>images/Compressed File Zip-01.ico</file>
+        <file>images/cut.ico</file>
+        <file>images/Document-01.ico</file>
+        <file>images/Document Attach-01.ico</file>
+        <file>images/Exit.ico</file>
+        <file>images/print.ico</file>
+        <file>images/refresh.ico</file>
+        <file>images/save.ico</file>
+        <file>images/undo.ico</file>
+        <file>images/flowchart-symbol-data.png</file>
+        <file>images/flowchart-symbol-decision.png</file>
+        <file>images/flowchart-symbol-delay.png</file>
+        <file>images/flowchart-symbol-document.png</file>
+        <file>images/flowchart-symbol-off-page-reference.png</file>
+        <file>images/flowchart-symbol-on-page-reference.png</file>
+        <file>images/flowchart-symbol-process.png</file>
+        <file>images/flowchart-symbol-terminator.png</file>
+    </qresource>
+</RCC>

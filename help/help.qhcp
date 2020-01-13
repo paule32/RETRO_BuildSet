@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QHelpCollectionProject version="1.0">
+<assistant>
+    <title>Simple Text Viewer</title>
+    <cacheDirectory>QtProject/SimpleTextViewer</cacheDirectory>
+    <startPage>qthelp://kallup.net.help.c64/index.html</startPage>
+
+    <aboutMenuText>
+        <text>About Simple Text Viewer</text>
+    </aboutMenuText>
+    <aboutDialog>
+        <file>docs/about.txt</file>
+    </aboutDialog>
+
+    <enableDocumentationManager>false</enableDocumentationManager>
+    <enableAddressBar>false</enableAddressBar>
+    <enableFilterFunctionality>false</enableFilterFunctionality>
+</assistant>
+
+    <docFiles>
+        <generate>
+            <file>
+                <input>help.qhp</input>
+                <output>help.qch</output>
+            </file>
+        </generate>
+        <register>
+            <file>help.qch</file>
+        </register>
+    </docFiles>
+</QHelpCollectionProject>
